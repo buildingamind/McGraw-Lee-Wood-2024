@@ -2,7 +2,7 @@
 
 ## Joshua McGraw, Donsuk Lee, Justin Wood. Nature Communications 2024.
 
-![](https://i.imgur.com/UiaqxyA.gif)
+![2afc-demo](https://github.com/buildingamind/McGraw-Lee-Wood-2024/assets/76073531/08bd9f70-0a60-4438-9d9b-2f02c1b24121)
 
 # Contents:
 - Data (Raw CSV files averaged over Trial for each Agent / Condition)
@@ -13,4 +13,4 @@
 # Walkthough
 This repository contins the materials and source code associated with `Parallel development of social behavior in biological and artificial fish. (McGraw, Lee, Wood 2024)`  Nature Communications.
 
-Comma Separated Value (CSV) data is provided under each Experiment under `experiment__/data`
+...
